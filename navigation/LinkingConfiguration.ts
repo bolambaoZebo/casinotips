@@ -1,6 +1,6 @@
 /**
  * Learn more about deep linking with React Navigation
- * https://reactnavigation.org/docs/deep-linking
+ * 4
  * https://reactnavigation.org/docs/configuring-links
  */
 
