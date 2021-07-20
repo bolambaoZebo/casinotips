@@ -2,15 +2,15 @@
   "expo": {
     "name": "casinotips",
     "slug": "casinotips",
-    "version": "1.0.0",
+    "version": "1.4.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/casinotips.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/probet.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,9 +23,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/images/casinotips.png",
+        "backgroundColor": "#000000"
+      },
+      "permissions": [],
+      "package": "com.zebo96group.casinotips", 
+      "versionCode": 9
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
